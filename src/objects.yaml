@@ -213,7 +213,7 @@ label_alias:
     en: [ "hot food" ]
   cold_drink:
     zh: [ "冷饮", "冰杯" ]
-    en: [ "cold drink", "glass with ice" ]
+    en: [ "cold drink", "glass with ice", "something you can drink" ]
   jellyfish:
     zh: [ "水母" ]
     en: [ "jellyfish" ]
@@ -249,7 +249,7 @@ label_alias:
     en: [ "skeleton ridding a bicycle", "skeleton riding a bicycle" ]
   orange_fruit:
     zh: [ "橙色水果" ]
-    en: [ "orange fruit" ]
+    en: [ "orange fruit", "fruit" ]
   drawing_of_a_haunted_house:
     zh: [ "鬼屋的图画", "鬼屋图画" ]
     en: [ "drawing of a haunted house" ]
@@ -258,7 +258,7 @@ label_alias:
     en: [ "ghost riding a bicycle" ]
   flying_bat:
     zh: [ "飞行蝙蝠", "一只飞翔的蝙蝠" ] # await
-    en: [ "flying bat" ]
+    en: [ "flying bat", "bat" ]
   rabbit_blur: # rabbit
     zh: [ "兔子" ]
     en: [ "rabbit" ]
@@ -581,7 +581,7 @@ label_alias:
     en: [ "ladder" ]
   factory_with_chimney:
     zh: [ "有烟囱的工厂" ]
-    en: [ "factory with chimney" ]
+    en: [ "factory with chimney", "building" ]
   microwave:
     zh: [ "微波炉", "微波" ]
     en: [ "microwave" ]
@@ -629,7 +629,7 @@ label_alias:
     en: [ "dart board" ]
   bicycle:
     zh: [ "自行车" ]
-    en: [ "bicycle" ]
+    en: [ "bicycle", "something you can eat" ]
   knife:
     zh: [ "刀" ]
     en: [ "knife" ]
@@ -668,4 +668,4 @@ label_alias:
     en: [ "motor vehicle" ]
   animal:
     zh: [ "动物" ]
-    en: [ "animal" ]
+    en: [ "animal", "animal wearing glasses" ]

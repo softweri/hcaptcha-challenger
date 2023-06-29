@@ -668,4 +668,4 @@ label_alias:
     en: [ "motor vehicle" ]
   animal:
     zh: [ "动物" ]
-    en: [ "animal", "animal wearing glasses" ]
+    en: [ "animal", "animal wearing glasses", "what animal is shown in the image below?" ]

@@ -629,7 +629,7 @@ label_alias:
     en: [ "dart board" ]
   bicycle:
     zh: [ "自行车" ]
-    en: [ "bicycle", "something you can eat" ]
+    en: [ "bicycle" ]
   knife:
     zh: [ "刀" ]
     en: [ "knife" ]
@@ -672,3 +672,6 @@ label_alias:
 yolov5m6:
     zh: [ "what object is shown in the image below?" ]
     en: [ "what object is shown in the image below?" ]
+something_you_can_eat:
+    zh: [ "something you can eat" ]
+    en: [ "something you can eat" ]

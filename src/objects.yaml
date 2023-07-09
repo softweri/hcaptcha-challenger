@@ -356,7 +356,7 @@ label_alias:
     en: [ "pineapple" ]
   panda:
     zh: [ "熊猫" ]
-    en: [ "panda" ]
+    en: [ "panda", "goose" ]
   dolphin:
     zh: [ "海豚" ]
     en: [ "dolphin" ]

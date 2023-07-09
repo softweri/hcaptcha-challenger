@@ -672,3 +672,6 @@ label_alias:
 yolov5m6:
     zh: [ "what object is shown in the image below?" ]
     en: [ "what object is shown in the image below?" ]
+    yolov5m6:
+    zh: [ "fox" ]
+    en: [ "fox" ]

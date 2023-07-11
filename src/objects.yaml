@@ -672,12 +672,12 @@ label_alias:
   yolov5m6:
     zh: [ "what object is shown in the image below?" ]
     en: [ "what object is shown in the image below?" ]
-  fox:
-    zh: [ "fox" ]
-    en: [ "fox" ]
-  chair:
-    zh: [ "chair" ]
-    en: [ "chair" ]
-  goose:
-    zh: [ "goose" ]
-    en: [ "goose" ]
+#  fox:
+#    zh: [ "fox" ]
+#    en: [ "fox" ]
+#  chair:
+#    zh: [ "chair" ]
+#    en: [ "chair" ]
+#  goose:
+#    zh: [ "goose" ]
+#    en: [ "goose" ]

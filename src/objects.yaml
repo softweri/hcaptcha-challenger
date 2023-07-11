@@ -681,6 +681,6 @@ label_alias:
   goose:
     zh: [ "goose" ]
     en: [ "goose" ]
-rubber_duck:
+  rubber_duck:
     zh: [ "rubber duck" ]
     en: [ "rubber duck" ]

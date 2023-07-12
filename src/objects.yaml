@@ -669,9 +669,9 @@ label_alias:
   animal:
     zh: [ "动物" ]
     en: [ "animal", "animal wearing glasses" ]
-  yolov5m6:
-    zh: [ "what object is shown in the image below?", "what animal is shown in the image below?" ]
-    en: [ "what object is shown in the image below?", "what animal is shown in the image below?" ]
+#  yolov5m6:
+#    zh: [ "what object is shown in the image below?", "what animal is shown in the image below?" ]
+#    en: [ "what object is shown in the image below?", "what animal is shown in the image below?" ]
   fox:
     zh: [ "fox" ]
     en: [ "fox" ]

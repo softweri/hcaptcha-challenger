@@ -684,3 +684,6 @@ label_alias:
   rubber_duck:
     zh: [ "rubber duck" ]
     en: [ "rubber duck" ]
+  koala:
+  zh: [ "koala" ]
+  en: [ "koala" ]

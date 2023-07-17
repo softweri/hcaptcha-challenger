@@ -687,3 +687,7 @@ label_alias:
   koala:
     zh: [ "koala" ]
     en: [ "koala" ]
+  zebra:
+    zh: [ "zebra" ]
+    en: [ "zebra" ]
+    

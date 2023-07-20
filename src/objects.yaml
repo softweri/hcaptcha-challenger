@@ -696,3 +696,6 @@ label_alias:
   table:
     zh: [ "table" ]
     en: [ "table" ]
+  chess_piece:
+    zh: [ "chess piece" ]
+    en: [ "chess piece" ]

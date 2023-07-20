@@ -690,4 +690,10 @@ label_alias:
   zebra:
     zh: [ "zebra" ]
     en: [ "zebra" ]
+    door:
+    zh: [ "door" ]
+    en: [ "door" ]
+  table:
+    zh: [ "table" ]
+    en: [ "table" ]
     

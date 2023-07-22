@@ -699,3 +699,6 @@ label_alias:
   chess_piece:
     zh: [ "chess piece" ]
     en: [ "chess piece" ]
+  keyboard:
+    zh: [ "keyboard" ]
+    en: [ "keyboard" ] 

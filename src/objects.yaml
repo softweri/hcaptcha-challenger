@@ -702,3 +702,18 @@ label_alias:
   keyboard:
     zh: [ "keyboard" ]
     en: [ "keyboard" ] 
+  bed:
+    zh: [ "bed" ]
+    en: [ "bed" ]
+  outdoor_gear:
+    zh: [ "outdoor gear" ]
+    en: [ "outdoor gear" ] 
+  flower:
+    zh: [ "flower" ]
+    en: [ "flower" ]
+  item_of_office_equipment:
+    zh: [ "item of office equipment" ]
+    en: [ "item of office equipment" ]
+  musical_instrument:
+    zh: [ "musical instrument" ]
+    en: [ "musical instrument" ]

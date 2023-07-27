@@ -717,3 +717,9 @@ label_alias:
   musical_instrument:
     zh: [ "musical instrument" ]
     en: [ "musical instrument" ]
+  wardrobe:
+    zh: [ "wardrobe" ]
+    en: [ "wardrobe" ]
+  tree:
+    zh: [ "tree" ]
+    en: [ "tree" ]

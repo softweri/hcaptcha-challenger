@@ -723,3 +723,6 @@ label_alias:
   tree:
     zh: [ "tree" ]
     en: [ "tree" ]
+  nesting_doll:
+    zh: [ "nesting doll" ]
+    en: [ "nesting doll" ]

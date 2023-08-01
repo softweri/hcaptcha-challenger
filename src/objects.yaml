@@ -726,3 +726,6 @@ label_alias:
   nesting_doll:
     zh: [ "nesting doll" ]
     en: [ "nesting doll" ]
+  light_bulb:
+    zh: [ "light bulb" ]
+    en: [ "light bulb" ]

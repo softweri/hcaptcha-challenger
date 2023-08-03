@@ -729,3 +729,9 @@ label_alias:
   light_bulb:
     zh: [ "light bulb" ]
     en: [ "light bulb" ]
+  alpaca:
+    zh: [ "alpaca" ]
+    en: [ "alpaca" ]
+  sea_lion:
+    zh: [ "sea lion" ]
+    en: [ "sea lion" ]

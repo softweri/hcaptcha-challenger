@@ -735,3 +735,6 @@ label_alias:
   sea_lion:
     zh: [ "sea lion" ]
     en: [ "sea lion" ]
+  bonsai_tree:
+    zh: [ "bonsai tree" ]
+    en: [ "bonsai tree" ]

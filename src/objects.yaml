@@ -744,4 +744,6 @@ label_alias:
   motorcycle:
     zh: [ "motorcycle" ]
     en: [ "motorcycle" ]
-
+  cup_of_orange_juice:
+    zh: [ "cup of orange juice" ]
+    en: [ "cup of orange juice" ]

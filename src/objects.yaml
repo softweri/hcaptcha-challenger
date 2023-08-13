@@ -249,7 +249,7 @@ label_alias:
     en: [ "skeleton ridding a bicycle", "skeleton riding a bicycle" ]
   orange_fruit:
     zh: [ "橙色水果" ]
-    en: [ "orange fruit", "fruit" ]
+    en: [ "orange fruit", "fruit", "Please click on all images containing a fruit" ]
   drawing_of_a_haunted_house:
     zh: [ "鬼屋的图画", "鬼屋图画" ]
     en: [ "drawing of a haunted house" ]

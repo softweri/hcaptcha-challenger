@@ -750,3 +750,6 @@ label_alias:
   laptop:
     zh: [ "laptop" ]
     en: [ "laptop" ]
+  diamond_bracelet:
+    zh: [ "diamond bracelet" ]
+    en: [ "diamond bracelet" ]

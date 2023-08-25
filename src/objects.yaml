@@ -753,3 +753,6 @@ label_alias:
   diamond_bracelet:
     zh: [ "diamond bracelet" ]
     en: [ "diamond bracelet" ]
+  meerkat:
+    zh: [ "meerkat" ]
+    en: [ "meerkat" ]

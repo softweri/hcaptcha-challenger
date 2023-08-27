@@ -756,3 +756,6 @@ label_alias:
   meerkat:
     zh: [ "meerkat" ]
     en: [ "meerkat" ]
+  plant:
+    zh: [ "plant" ]
+    en: [ "plant" ]

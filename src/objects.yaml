@@ -759,3 +759,6 @@ label_alias:
   plant:
     zh: [ "plant" ]
     en: [ "plant" ]
+  suitcase:
+    zh: [ "suitcase" ]
+    en: [ "suitcase" ]

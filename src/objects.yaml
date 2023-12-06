@@ -739,6 +739,12 @@ label_alias:
   freight_train2309:
     en:
     - freight train
+  camel:
+    en:
+    - camel
+  scene_without_animals:
+    en:
+    - scene without animals
 datalake:
   football stadium:
     positive_labels:
@@ -761,16 +767,3 @@ datalake:
     - mouse
     - football stadium
     - basketball
-  scene without animals:
-    positive_labels:
-    - scene without animals
-    negative_labels:
-    - elephant
-    - horse
-    - camel
-  camel:
-    positive_labels:
-    - camel
-    negative_labels:
-    - elephant
-    - horse

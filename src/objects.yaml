@@ -768,3 +768,9 @@ datalake:
     - elephant
     - horse
     - camel
+  camel:
+    positive_labels:
+    - camel
+    negative_labels:
+    - elephant
+    - horse

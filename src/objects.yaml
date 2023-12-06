@@ -761,3 +761,10 @@ datalake:
     - mouse
     - football stadium
     - basketball
+  scene without animals:
+    positive_labels:
+    - scene without animals
+    negative_labels:
+    - elephant
+    - horse
+    - camel

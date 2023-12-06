@@ -592,6 +592,9 @@ label_alias:
   drink:
     en:
     - drink
+  wizard:
+    en:
+    - wizard
   boat2310:
     zh:
     - 船

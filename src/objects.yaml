@@ -450,7 +450,7 @@ label_alias:
     - 一杯橙汁
     en:
     - cup of orange juice
-    - juice in it
+    - click on each photo with juice in it
   train2309:
     zh:
     - 火车

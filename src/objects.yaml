@@ -753,6 +753,9 @@ label_alias:
   representative_of_feline_family:
     en:
     - representative of feline family
+  please_click_on_something_that_can_be_found_in_the_woods:
+    en:
+    - please click on something that can be found in the woods
 datalake:
   football stadium:
     positive_labels:

@@ -748,7 +748,10 @@ label_alias:
     - scene without animals
   please_click_on_each_image_with_nobody:
     en:
-    - please click on each image with nobody   
+    - please click on each image with nobody
+  representative_of_feline_family:
+    en:
+    - representative of feline family
 datalake:
   football stadium:
     positive_labels:

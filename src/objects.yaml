@@ -756,6 +756,9 @@ label_alias:
   please_click_on_something_that_can_be_found_in_the_woods:
     en:
     - please click on something that can be found in the woods
+  rodent:
+    en:
+    - rodent
 datalake:
   football stadium:
     positive_labels:

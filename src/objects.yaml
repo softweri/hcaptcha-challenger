@@ -759,6 +759,15 @@ label_alias:
   rodent:
     en:
     - rodent
+  human:
+    en:
+    - human
+  place_without_people:
+    en:
+    - place without people
+  frying_pan:
+    en:
+    - frying pan
 datalake:
   football stadium:
     positive_labels:

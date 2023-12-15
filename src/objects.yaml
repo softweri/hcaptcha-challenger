@@ -300,7 +300,6 @@ label_alias:
     - 乐器
     en:
     - musical instrument
-    - ρlease click on images of an object used to create music
   violin:
     zh:
     - 小提琴
@@ -451,7 +450,6 @@ label_alias:
     - 一杯橙汁
     en:
     - cup of orange juice
-    - click on each photo with juice in it
   train2309:
     zh:
     - 火车
@@ -468,7 +466,7 @@ label_alias:
     en:
     - industrial tool or machinery
     - industrial tool or heavy machinery
-  elephant2323:
+  elephant2309:
     zh:
     - 大象
     en:
@@ -591,12 +589,6 @@ label_alias:
   main_course2311:
     en:
     - main course
-  drink:
-    en:
-    - drink
-  wizard:
-    en:
-    - wizard
   boat2310:
     zh:
     - 船
@@ -741,21 +733,6 @@ label_alias:
   freight_train2309:
     en:
     - freight train
-  camel:
-    en:
-    - camel
-  scene_without_animals:
-    en:
-    - scene without animals
-  please_click_on_each_image_with_nobody:
-    en:
-    - please click on each image with nobody
-  representative_of_feline_family:
-    en:
-    - representative of feline family
-  please_click_on_something_that_can_be_found_in_the_woods:
-    en:
-    - please click on something that can be found in the woods
   rodent:
     en:
     - rodent

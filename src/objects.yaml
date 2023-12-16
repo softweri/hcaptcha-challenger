@@ -745,6 +745,11 @@ label_alias:
   frying_pan:
     en:
     - frying pan
+  flying_vehicle:
+    en:
+    - helicopter
+    - flying vehicle
+    - airplane
 datalake:
   football stadium:
     positive_labels:

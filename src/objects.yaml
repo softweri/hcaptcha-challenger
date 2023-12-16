@@ -400,6 +400,7 @@ label_alias:
     - 直升机
     en:
     - helicopter
+    - flying vehicle
   motor_vehicle2309:
     zh:
     - 机动车
@@ -745,9 +746,6 @@ label_alias:
   frying_pan:
     en:
     - frying pan
-  flying_vehicle:
-    en:
-    - flying vehicle
 datalake:
   football stadium:
     positive_labels:

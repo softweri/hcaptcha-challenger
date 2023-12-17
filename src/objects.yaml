@@ -746,7 +746,7 @@ label_alias:
   frying_pan:
     en:
     - frying pan
-  please_click_on_the_objects_that_can_be_found_in_the_living_room:
+  living_room:
     en:
     - please click on the objects that can be found in the living room
 datalake:

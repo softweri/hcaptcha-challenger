@@ -750,6 +750,7 @@ label_alias:
     en:
     - please click on the objects that can be found in the living room
     - 'Please click on the objects that can be found in the living room'
+    - living room
 datalake:
   football stadium:
     positive_labels:

@@ -751,6 +751,9 @@ label_alias:
     - please click on the objects that can be found in the living room
     - 'please click on the objects that can be found in the living room'
     - living room
+  please_click_on_all_images_of_the_heaviest_animal_species:
+    en:
+    - please click on all images of the heaviest animal species
 datalake:
   football stadium:
     positive_labels:

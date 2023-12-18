@@ -760,6 +760,9 @@ label_alias:
   please_click_on_all_images_without_animals:
     en:
     - please click on all images without animals
+  frozen_liquid:
+    en:
+    - frozen liquid
 datalake:
   football stadium:
     positive_labels:

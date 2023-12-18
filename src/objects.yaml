@@ -757,6 +757,9 @@ label_alias:
   object_used_in_garden:
     en:
     - object used in garden
+  please_click_on_all_images_without_animals:
+    en:
+    - please click on all images without animals
 datalake:
   football stadium:
     positive_labels:

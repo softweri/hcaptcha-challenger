@@ -763,6 +763,12 @@ label_alias:
   frozen_liquid:
     en:
     - frozen liquid
+  dinosaur:
+    en:
+    - dinosaur
+  lawn_mower:
+    en:
+    - lawn mower
 datalake:
   football stadium:
     positive_labels:

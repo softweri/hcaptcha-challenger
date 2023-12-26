@@ -775,7 +775,7 @@ label_alias:
   food:
     en:
     - food
-  please_click_on_all_images_of_the_heaviest_animal_species:
+  heaviest_animal_species_elephant:
     en:
     - please click on all images of the heaviest animal species
 datalake:

@@ -772,6 +772,12 @@ label_alias:
   punching_bag:
     en:
     - punching bag
+  dumplings:
+    en:
+    - dumplings
+  food:
+    en:
+    - food
 datalake:
   football stadium:
     positive_labels:

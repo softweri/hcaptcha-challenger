@@ -778,6 +778,9 @@ label_alias:
   heaviest_animal_species_elephant:
     en:
     - please click on all images of the heaviest animal species
+  kitchen_tool:
+    en:
+    - kitchen tool
 datalake:
   football stadium:
     positive_labels:

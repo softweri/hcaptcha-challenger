@@ -775,6 +775,9 @@ label_alias:
   food:
     en:
     - food
+  car_part:
+    en:
+    - car part
   heaviest_animal_species_elephant:
     en:
     - please click on all images of the heaviest animal species

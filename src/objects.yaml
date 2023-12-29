@@ -790,6 +790,9 @@ label_alias:
   pillows:
     en:
     - pillows
+  industrial_machine:
+    en:
+    - industrial machine
 datalake:
   football stadium:
     positive_labels:
